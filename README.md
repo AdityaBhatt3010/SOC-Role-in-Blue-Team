@@ -375,4 +375,4 @@ These rooms continue building practical defensive security knowledge.
 
 Successfully completed the room and understood how Blue Teams operate inside modern organizations. 🚀
 
-Source Material: 
+---
