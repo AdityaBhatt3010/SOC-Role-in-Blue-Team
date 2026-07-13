@@ -1,10 +1,8 @@
 # SOC Role in Blue Team
 
-Cybersecurity | Blue Team | SOC | CIRT | TryHackMe | SOC Analyst
+Cybersecurity | Blue Team | SOC | CIRT | SOC Analyst
 
 Modern organizations rely heavily on defensive security teams to detect, investigate, and respond to cyber threats before they escalate into full-scale incidents. In this room, we explore how security teams are structured inside organizations, how a SOC operates, and the career progression of a SOC Analyst. We also solve a practical challenge where we act as a CISO and assign the right teams to ongoing incidents. 🔵
-
-Lab Link: [https://tryhackme.com/room/socroleinblueteam](https://tryhackme.com/room/socroleinblueteam)
 
 ---
 
