@@ -334,10 +334,6 @@ Once all assignments are correct, the platform reveals the final flag.
 
 ## Final Flag
 
-```text
-THM{trysecureme_is_secured}
-```
-
 ![](SOCJr2/1.png)
 
 ---
