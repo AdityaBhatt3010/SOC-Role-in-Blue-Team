@@ -1,4 +1,4 @@
-# SOC Role in Blue Team — TryHackMe Walkthrough
+# SOC Role in Blue Team
 
 Cybersecurity | Blue Team | SOC | CIRT | TryHackMe | SOC Analyst
 
